@@ -2,10 +2,10 @@
 
 A simple ingame overlay that includes a ping checker for <a href="http://www.brawlhalla.com/">Brawlhalla</a>.
 
-* DOWNLOAD
+## DOWNLOAD
 You can get the latest release from <a href="https://github.com/error434/">here</a>. *(You only need to download the .exe)*
 
-* HOW TO USE
+## HOW TO USE
 The latest release will be a pre-compiled executable with the libraries bundled together. 
 To use it, simply download and run the executable. 
 
