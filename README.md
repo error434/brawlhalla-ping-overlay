@@ -9,7 +9,7 @@ You can get the latest release from <a href="https://github.com/error434/">here<
 - The latest release will be a pre-compiled executable with the libraries bundled together. 
 - To use it, simply download and run the executable. 
 
-## *after downloading follow the following*
+## *After downloading follow the following*
 
 Once launched, the tool will be in a blank state with no servers selected. To get started, press the **Settings** button and **select the servers you want enabled**. Then to enable the **in-game overlay**, go to the **Overlay Settings** tab and click on the **Overlay Enabled** button. Once in game, **colored ping numbers** should start to show up (see screenshots). 
 
