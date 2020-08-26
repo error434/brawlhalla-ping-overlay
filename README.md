@@ -3,7 +3,7 @@
 A simple ingame overlay that includes a ping checker for <a href="http://www.brawlhalla.com/">Brawlhalla</a>.
 
 ## DOWNLOAD
-You can get the latest release from <a href="https://github.com/error434/brawlhalla-ping-overlay/releases/tag/v1.0> here</a>. *(You only need to download the .exe)*
+You can get the latest release from <a href="https://github.com/error434/brawlhalla-ping-overlay/releases/tag/v1.0">here</a>. *(You only need to download the .exe)*
 
 ## HOW TO USE
 - The latest release will be a pre-compiled executable with the libraries bundled together. 
