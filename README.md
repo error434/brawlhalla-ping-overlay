@@ -17,4 +17,4 @@ If they **do not appear**, **alt+tab** to a window called **Overlay**. To move t
 
 That's pretty much all there is to the tool, there's a few more customization options available in the settings for you to play with 
 
-***_ENJOY THE TOOL AS WELL AS THE GAME**_
+**_ENJOY THE TOOL AS WELL AS THE GAME_**
